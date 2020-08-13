@@ -1,2 +1,4 @@
 # This child branch starts identical to the maaster, and is modified independantly. 
 # ie - does not affect the code in the "master" branch 
+# this branch will be subjected to a Pull Request. It will be merged
+# with the "master" 
