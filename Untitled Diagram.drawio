@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T13:42:14.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.2" etag="TlIEh1CJ2iEx70d1r9BB" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">7VpNl9ogFP01WU5PAvnQpfGjs+lqek7XaDByhoSUoGb66wsJMSpJ6+lopmZ0IzzgQd699xFQC06T4itH2eYbizC1gB0VFpxZAICRB+SXsrxVFgeO7coScxJpW2N4Ib+wNtbdtiTC+UlHwRgVJDs1rlia4pU4sSHO2f6025rR01kzFGPD8LJC1LT+IJHYaKvjj5uGZ0zijZ56BIKqYYlWrzFn21TPZwG4Lj9Vc4JqX/pB8w2K2P7IBOcWnHLGRFVKiimmKrh12Kpxi47Ww7o5TsUlA4DjQ68atEN0i+tV+1QODyOyU2sUbzou/s+tWlgocCGeECVxasGJgkHOhrksyLYy3Kl4yktQVavjZ0UzVpZi/V3OseTnFrnacuLaCk7WAOQDSBrISrjfEIFfMrRSLXtJRWnbiITKmiOLKM8qbqxJgeXzhiUuqlQ2H0KvVh1TlOe6TNES0/AA5JRRxmVTylI1aS44e8WtxpoqyvuaUFp3kiRY2KPA9tREHEVEhuvMgQrZAiWEKsU8Y7rDgqyQbtD6cHxdP/ILFl4YTNXDVmjMNBQwZDIuRCh3nnqoHebKI53ofoKpaOWqUxor594h1qorLjoJ5RxoKvWPWYIFf5Nd9IAAuF80obT4AdRO9o2SXN1lc6Sh2oa0duOD74a/sqAp3E1nv4XOQ6BQAP3pZNQDhSheC5NAQ6RKcK3M15n2yqzWkflkRNPWSS51xMuINFmzcvhIpoNJptA3FGLD2nKkEWDbpkgOxveqZGSoJKOKJoPg0uCyKrTPOQOd/jkzNjgjSDIQyjhgMgn7SD9Vfu+BM66xE38AZ1z7vnfjPWcSlM+3G0/mrgPBf7QbL5kQLGmEEup6JZc+dmkX9K8ex1DPm8EvpZdTIrVCfgywNhkYnAc9IVFEu5jbsNP+d3a+m0fXSJSuAbXbBrXbivR1gAYG0MUD6NsDDf2+gYYXAH2XO0ZvL1BdO8YA7zJc12BLvl2tsATy78mBY/l+g5ZlBxWfjJFUlOvxQsubqYhuBct15M1DzR/Pw99VZfbkduDXCfSNlB2MDaRaU3hwQ2W33bg/hH0nwm4/Gt1S2kO90f7wk8Mw6WLeapsngbvki+d7TjB/8OXKfDHvd9eI0C03r+s++5vD+Byr+sfGI6T8G743mLeqKRPSQJG4BKyhnQHhjc+AxpuixLvfM6Bn3ok+sL4F1p7xq4kb9Hze98wbPMpy8cD62lhDQ9f9Y21e4ulM/kC8F8Tbdu4r4S2rzf/3yrajf0nC+W8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-12T13:41:58.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="-RcBUGPx3OOk6V7VW-0Q" version="13.9.2" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="2961" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="21638" value="WHAT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#736CA8;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=left;opacity=50;spacing=15;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="98.5" width="371.5" height="371.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mck984ewY2W3KC8OH_Iv-21652" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21644" target="21638">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21644" value="WHAT: Developer and&amp;nbsp;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Helvetica;fontColor=#2F5B7C;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="130" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="21637" value="&lt;div style=&quot;text-align: center ; font-size: 16px&quot;&gt;HOW&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#F08705;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=center;opacity=50;verticalAlign=top;spacing=15;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="130" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="21639" value="&lt;span style=&quot;text-align: left&quot;&gt;WHY&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#12AAB5;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=right;opacity=50;spacing=15;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="200" width="164" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="mck984ewY2W3KC8OH_Iv-21654" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mck984ewY2W3KC8OH_Iv-21653" target="21637">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mck984ewY2W3KC8OH_Iv-21653" value="HOW: Learn, Create, Teach, Lead&amp;nbsp;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Helvetica;fontColor=#2F5B7C;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mck984ewY2W3KC8OH_Iv-21656" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mck984ewY2W3KC8OH_Iv-21655" target="21639">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mck984ewY2W3KC8OH_Iv-21655" value="WHY: Person who enjoys sharing knowledge &lt;br&gt;and understanding to empower people&lt;br&gt;so they can discover their potential and &lt;br&gt;improve every aspect of their lives,&lt;br&gt;whether they deserve it or not." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Helvetica;fontColor=#2F5B7C;" vertex="1" parent="1">
+          <mxGeometry x="170" y="254.25" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mck984ewY2W3KC8OH_Iv-21658" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="270" width="430" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="mck984ewY2W3KC8OH_Iv-21660" value="&lt;h1&gt;Solve&lt;/h1&gt;&lt;p&gt;problems&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="370" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mck984ewY2W3KC8OH_Iv-21661" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Give&lt;/h1&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Time&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="490" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mck984ewY2W3KC8OH_Iv-21663" value="&lt;h1&gt;Be&lt;/h1&gt;&lt;p&gt;Leader&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="490" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mck984ewY2W3KC8OH_Iv-21666" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Have&lt;/h1&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; means&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="370" width="180" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
